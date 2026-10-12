@@ -63,9 +63,6 @@ __________________________________________
 
 # 🚀 ⚙️ Começo Rápido:
 
-``` bash
-
-```
 ##### Primeiramente Clone o projeto do git-hub
 ``` bash
 git clone 
