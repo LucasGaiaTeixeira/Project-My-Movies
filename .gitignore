@@ -1,0 +1,10 @@
+# Enviroments
+.env
+
+# virtual Ambient
+.venv/
+
+#files not important
+.vscode
+__pycache__/
+*.py[cod]
